@@ -1,4 +1,4 @@
-module github.com/clearbit/clearbit-go
+module github.com/expel-io/clearbit-go
 
 require (
 	github.com/dghubble/sling v1.1.0
